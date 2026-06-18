@@ -7,12 +7,12 @@ Building powerful web apps and integrating AI into real-world products @ **Bitlo
 
 ## What I Do
 
-- ⚙️ **Backend:** Laravel, CodeIgniter, PHP — scalable APIs & complex business logic
-- 🎨 **Frontend:** Next.js, React, Tailwind CSS — clean, fast, responsive UIs
-- 🧩 **AI Integration:** Embedding LLMs, OpenAI & AI features into production applications
-- 🛠️ **REST APIs:** Designing & building scalable, secure REST APIs for web & mobile apps
-- 🖥️ **Server & DevOps:** VPS setup, server config, maintenance & deployment
-- 🗣️ **Chatbots:** Building intelligent chatbots powered by OpenAI GPT models
+-  **Backend:** Laravel, CodeIgniter, PHP — scalable APIs & complex business logic
+-  **Frontend:** Next.js, React, Tailwind CSS — clean, fast, responsive UIs
+-  **AI Integration:** Embedding LLMs, OpenAI & AI features into production applications
+-  **REST APIs:** Designing & building scalable, secure REST APIs for web & mobile apps
+-  **Server & DevOps:** VPS setup, server config, maintenance & deployment
+-  **Chatbots:** Building intelligent chatbots powered by OpenAI GPT models
 
 ---
 
@@ -20,13 +20,13 @@ Building powerful web apps and integrating AI into real-world products @ **Bitlo
 
 I build real-world AI-powered features and products:
 
-- 💡 **OpenAI GPT Integration** — GPT-3.5 / GPT-4 API integration into web apps
-- 🗣️ **Custom Chatbots** — Context-aware chatbots for businesses using OpenAI & custom prompts
-- 📄 **AI Document Processing** — Extracting, summarizing & analyzing documents with AI
-- 🔍 **AI-Powered Search** — Semantic search and intelligent filtering using embeddings
-- ⚡ **AI Automation** — Automating repetitive business workflows using LLMs
-- 🔌 **AI API Development** — Building REST APIs that serve AI-generated responses to frontend apps
-- 🎯 **Prompt Engineering** — Crafting optimized prompts for consistent, production-ready AI outputs
+-  **OpenAI GPT Integration** — GPT-3.5 / GPT-4 API integration into web apps
+-  **Custom Chatbots** — Context-aware chatbots for businesses using OpenAI & custom prompts
+-  **AI Document Processing** — Extracting, summarizing & analyzing documents with AI
+-  **AI-Powered Search** — Semantic search and intelligent filtering using embeddings
+-  **AI Automation** — Automating repetitive business workflows using LLMs
+-  **AI API Development** — Building REST APIs that serve AI-generated responses to frontend apps
+-  **Prompt Engineering** — Crafting optimized prompts for consistent, production-ready AI outputs
 
 ---
 
@@ -34,13 +34,13 @@ I build real-world AI-powered features and products:
 
 Building robust, well-structured APIs for web and mobile applications:
 
-- 📐 **API Design** — RESTful architecture, clean endpoint structuring & versioning
-- 🔐 **Authentication** — JWT, Sanctum, Passport — secure token-based auth for APIs
-- 📱 **Mobile Backend** — APIs powering iOS & Android apps (ride-hailing, healthcare, e-commerce)
-- 🔗 **Third-Party Integrations** — Twilio, MSG91, Stripe, payment gateways & SMS/OTP APIs
-- 📝 **API Documentation** — Clear, structured documentation for frontend & mobile teams
-- 🛡️ **API Security** — Rate limiting, input validation, role-based access control
-- 🔄 **Webhooks** — Handling incoming webhooks from Twilio, Stripe & other services
+-  **API Design** — RESTful architecture, clean endpoint structuring & versioning
+-  **Authentication** — JWT, Sanctum, Passport — secure token-based auth for APIs
+-  **Mobile Backend** — APIs powering iOS & Android apps (ride-hailing, healthcare, e-commerce)
+-  **Third-Party Integrations** — Twilio, MSG91, Stripe, payment gateways & SMS/OTP APIs
+-  **API Documentation** — Clear, structured documentation for frontend & mobile teams
+-  **API Security** — Rate limiting, input validation, role-based access control
+-  **Webhooks** — Handling incoming webhooks from Twilio, Stripe & other services
 
 ---
 
@@ -48,14 +48,14 @@ Building robust, well-structured APIs for web and mobile applications:
 
 Hands-on experience managing and deploying production servers:
 
-- 🔧 **Server Setup & Config** — VPS provisioning, Apache/Nginx configuration, virtual hosts & SSL setup
-- 🚀 **Deployment** — Git-based deployments, zero-downtime releases, environment management
-- 🌐 **Cloudflare** — DNS management, SSL modes, caching, CDN & DDoS protection
-- 🔒 **Security** — Malware cleanup, backdoor detection, firewall rules & hardening
-- 🗂️ **Control Panels** — cPanel, DirectAdmin, aaPanel — full server administration
-- 🗄️ **Database Management** — MySQL optimization, backups, migrations on live servers
-- 📊 **Monitoring & Maintenance** — Cron jobs, scheduler monitoring, log analysis & uptime management
-- 🐛 **Debugging Production Issues** — SSL failures, DNS misconfigs, broken APIs, memory leaks
+-  **Server Setup & Config** — VPS provisioning, Apache/Nginx configuration, virtual hosts & SSL setup
+-  **Deployment** — Git-based deployments, zero-downtime releases, environment management
+-  **Cloudflare** — DNS management, SSL modes, caching, CDN & DDoS protection
+-  **Security** — Malware cleanup, backdoor detection, firewall rules & hardening
+-  **Control Panels** — cPanel, DirectAdmin, aaPanel — full server administration
+-  **Database Management** — MySQL optimization, backups, migrations on live servers
+-  **Monitoring & Maintenance** — Cron jobs, scheduler monitoring, log analysis & uptime management
+-  **Debugging Production Issues** — SSL failures, DNS misconfigs, broken APIs, memory leaks
 
 ---
 
