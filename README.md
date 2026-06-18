@@ -4,6 +4,7 @@
 Building powerful web apps and integrating AI into real-world products @ **Bitlogicx**
 
 
+
 ## What I Do
 
 -  **Backend:** Laravel, CodeIgniter, PHP — scalable APIs & complex business logic
@@ -13,7 +14,7 @@ Building powerful web apps and integrating AI into real-world products @ **Bitlo
 -  **Server & DevOps:** VPS setup, server config, maintenance & deployment
 -  **Chatbots:** Building intelligent chatbots powered by OpenAI GPT models
 
----
+
 
 ## AI & OpenAI Integration
 
@@ -27,7 +28,7 @@ I build real-world AI-powered features and products:
 -  **AI API Development** — Building REST APIs that serve AI-generated responses to frontend apps
 -  **Prompt Engineering** — Crafting optimized prompts for consistent, production-ready AI outputs
 
----
+
 
 ## REST API Development
 
@@ -41,7 +42,7 @@ Building robust, well-structured APIs for web and mobile applications:
 -  **API Security** — Rate limiting, input validation, role-based access control
 -  **Webhooks** — Handling incoming webhooks from Twilio, Stripe & other services
 
----
+
 
 ## Server, DevOps & Deployment
 
@@ -56,7 +57,7 @@ Hands-on experience managing and deploying production servers:
 -  **Monitoring & Maintenance** — Cron jobs, scheduler monitoring, log analysis & uptime management
 -  **Debugging Production Issues** — SSL failures, DNS misconfigs, broken APIs, memory leaks
 
----
+
 
 ## Featured Projects
 
