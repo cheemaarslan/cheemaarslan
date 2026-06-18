@@ -3,7 +3,6 @@
 **Full Stack Developer & AI Integration** based in Lahore, Pakistan 🇵🇰  
 Building powerful web apps and integrating AI into real-world products @ **Bitlogicx**
 
----
 
 ## What I Do
 
