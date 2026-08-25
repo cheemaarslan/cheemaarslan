@@ -1,164 +1,443 @@
-# Hi, I'm Arslan Cheema 
+# I'm Arsalan Cheema 👋
 
-**Full Stack Developer & AI Integration** based in Lahore, Pakistan 🇵🇰  
-Building powerful web apps and integrating AI into real-world products @ **Bitlogicx**
+### Software Engineer | Building Scalable Digital Products
 
+I’m a **Software Engineer with 5+ years of experience**, focused on building secure, scalable, and production-ready applications for real businesses.
 
+I have worked on **35+ software projects** across healthcare, HR, SaaS, restaurant management, logistics, insurance, travel, marketplaces, AI-powered applications, and custom business systems.
 
-## What I Do
-
--  **Backend:** Laravel, CodeIgniter, PHP — scalable APIs & complex business logic
--  **Frontend:** Next.js, React, Tailwind CSS — clean, fast, responsive UIs
--  **AI Integration:** Embedding LLMs, OpenAI & AI features into production applications
--  **REST APIs:** Designing & building scalable, secure REST APIs for web & mobile apps
--  **Server & DevOps:** VPS setup, server config, maintenance & deployment
--  **Chatbots:** Building intelligent chatbots powered by OpenAI GPT models
-
-
-
-## AI & OpenAI Integration
-
-I build real-world AI-powered features and products:
-
--  **OpenAI GPT Integration** — GPT-3.5 / GPT-4 API integration into web apps
--  **Custom Chatbots** — Context-aware chatbots for businesses using OpenAI & custom prompts
--  **AI Document Processing** — Extracting, summarizing & analyzing documents with AI
--  **AI-Powered Search** — Semantic search and intelligent filtering using embeddings
--  **AI Automation** — Automating repetitive business workflows using LLMs
--  **AI API Development** — Building REST APIs that serve AI-generated responses to frontend apps
--  **Prompt Engineering** — Crafting optimized prompts for consistent, production-ready AI outputs
-
-
-
-## REST API Development
-
-Building robust, well-structured APIs for web and mobile applications:
-
--  **API Design** — RESTful architecture, clean endpoint structuring & versioning
--  **Authentication** — JWT, Sanctum, Passport — secure token-based auth for APIs
--  **Mobile Backend** — APIs powering iOS & Android apps (ride-hailing, healthcare, e-commerce)
--  **Third-Party Integrations** — Twilio, MSG91, Stripe, payment gateways & SMS/OTP APIs
--  **API Documentation** — Clear, structured documentation for frontend & mobile teams
--  **API Security** — Rate limiting, input validation, role-based access control
--  **Webhooks** — Handling incoming webhooks from Twilio, Stripe & other services
-
-
-
-## Server, DevOps & Deployment
-
-Hands-on experience managing and deploying production servers:
-
--  **Server Setup & Config** — VPS provisioning, Apache/Nginx configuration, virtual hosts & SSL setup
--  **Deployment** — Git-based deployments, zero-downtime releases, environment management
--  **Cloudflare** — DNS management, SSL modes, caching, CDN & DDoS protection
--  **Security** — Malware cleanup, backdoor detection, firewall rules & hardening
--  **Control Panels** — cPanel, DirectAdmin, aaPanel — full server administration
--  **Database Management** — MySQL optimization, backups, migrations on live servers
--  **Monitoring & Maintenance** — Cron jobs, scheduler monitoring, log analysis & uptime management
--  **Debugging Production Issues** — SSL failures, DNS misconfigs, broken APIs, memory leaks
-
-
-
-
-## Featured Projects
-
-### BizIns AI — US Insurance Platform with AI Chatbot
-US business insurance platform connecting customers with insurance agents. Features an AI-powered chatbot for instant customer support, intelligent lead distribution system, subscription plans for agents, complete policy workflow management, and role-based admin controls for platform administration.
-
-**Stack:** Laravel · REST APIs · MySQL · AI Integration  
-**Live:** [bizins.ai](https://bizins.ai)
+My work covers the complete software development lifecycle, from understanding business requirements and designing architecture to backend development, frontend development, APIs, integrations, deployment, and long-term maintenance.
 
 ---
 
-### D2Home — Australian Multi-vendor Food Delivery
-Multi-vendor food ordering ecosystem built for the Australian market. Includes a customer-facing ordering app, merchant dashboard for restaurant management, delivery partner management, real-time order tracking, split payment system, and a comprehensive admin panel for platform operations.
+## 🚀 What I Build
 
-**Stack:** Laravel · Next.js · React · MySQL  
-**Live:** [d2home.com.au](https://d2home.com.au)
-
----
-
-### MHS USA — Healthcare CCM & RPM Platform
-US healthcare platform supporting Chronic Care Management and Remote Patient Monitoring. Handles patient onboarding and management, physician workflows, medical billing, integration with remote monitoring devices, Twilio-based communication, and multi-practice support for healthcare organizations.
-
-**Stack:** Laravel · MySQL · Twilio · REST APIs  
-**Live:** [mhs-usa.net](https://mhs-usa.net)
-
----
-
-### Resume Amplifiers — Career Services Platform
-Career services platform designed for professional resume and career coaching services. Features a full CRM for managing clients and orders, integrated payment gateways, client-facing dashboard for tracking service progress, and admin tools for team and workflow management.
-
-**Stack:** CodeIgniter 4 · MySQL · Payment Gateways  
-**Live:** [resumeamplifiers.com](https://resumeamplifiers.com)
+* SaaS Platforms
+* Custom Business Applications
+* HRM & ERP Systems
+* Healthcare & Telemedicine Platforms
+* CRM & Management Systems
+* AI-Powered Applications
+* REST APIs & Mobile App Backends
+* Restaurant POS & Online Ordering Systems
+* Multi-Vendor Marketplaces
+* Travel & Booking Platforms
+* Insurance Platforms
+* Appointment & Scheduling Systems
+* Admin Panels & Analytics Dashboards
+* Payment & Third-Party Integrations
 
 ---
 
-### 3 Guys Burgers & Gyros — Restaurant POS Platform USA
-Full-featured restaurant ordering and POS platform for a US-based restaurant chain. Supports online ordering, QR code-based table ordering, a loyalty rewards program, kitchen display system for order management, and role-based administration for staff and management.
+## 💻 Technology Stack
 
-**Stack:** Laravel · Vue.js · MySQL  
-**Live:** [3guysburgersandgyros.com](https://www.3guysburgersandgyros.com)
+### Backend
 
----
+`PHP` `Laravel` `CodeIgniter` `REST APIs`
 
-### BigWay — School Transportation Management System
-Complete school transportation management system for educational institutions. Covers student and parent management, route planning and optimization, fee collection and management, daily attendance tracking, vehicle and driver management, expense and salary tracking, and detailed reporting.
+### Frontend
 
-**Stack:** Laravel · Livewire · MySQL  
-**Live:** Private Client Project
+`React.js` `Next.js` `Vue.js` `Nuxt.js` `JavaScript` `Tailwind CSS` `Bootstrap`
 
----
+### Database
 
-### Lens — Product Testing & Evaluation Platform
-Consumer product testing and evaluation platform focused on product safety and quality analysis. Features dynamic product management, multiple testing methodologies, detailed ingredient tracking and analysis, laboratory results management, and reporting tools for safety evaluations.
+`MySQL` `Database Design` `Database Optimization`
 
-**Stack:** Laravel · Vue.js · MySQL  
-**Live:** [lens.scriptro.com](https://lens.scriptro.com)
+### AI & Automation
 
----
+`OpenAI API` `AI Chatbots` `AI Integrations` `Automation`
 
-### OKO Test — Product Safety Platform
-Comprehensive product safety and testing platform built for the European market. Covers skincare, healthcare, food, and consumer product evaluation. Includes dynamic administration, safety rating systems, secure API integrations, and mobile app support for field testing and evaluations.
+### Deployment & Infrastructure
 
-**Stack:** Laravel · Vue.js · MySQL  
-**Live:** [okotest.scriptro.com](https://okotest.scriptro.com)
+`Linux` `Apache` `Nginx` `cPanel` `CyberPanel` `SSL` `Server Deployment`
+
+### Integrations
+
+`Payment Gateways` `Twilio` `eFax` `Email APIs` `Notifications` `Third-Party APIs`
 
 ---
 
-### Discovery Holidays Travel — Tourism Management Platform
-Travel and tourism management platform offering a wide range of services. Features tour package management, hotel reservations, flight bookings, visa processing services, Umrah packages, and worldwide travel experiences. Includes both admin and agent dashboards for managing bookings and operational workflows.
+# ⭐ Featured Projects
 
-**Stack:** Laravel · MySQL · REST APIs  
-**Live:** [discoveryholidaystravel.com](https://discoveryholidaystravel.com)
+## 🏥 CareSlot | Healthcare & Telemedicine Platform
 
----
+A complete healthcare ecosystem connecting **patients, doctors, clinics, and administrators** through web and mobile applications.
 
-> Most projects are built for private clients. Source code available for review upon request.
+### Key Features
 
----
-
-## Tech Stack
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+* Doctor discovery and advanced search
+* Clinic and video consultation booking
+* Doctor branch management
+* Doctor availability and schedule management
+* Appointment booking, rescheduling, and cancellation
+* Patient profiles and dependent/family profiles
+* Prescriptions and clinical notes
+* Patient care journey management
+* Online payments and wallet system
+* Doctor earnings management
+* Doctor-patient communication
+* Healthcare content and reels
+* Favorites and saved doctors
+* Appointment notifications and reminders
+* Centralized admin dashboard
+* Doctor mobile application
+* Patient mobile application
+* Android and iOS support
 
 ---
 
-## Let's Connect
+## 👥 DotHRM | Complete HR Management Platform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslan-cheemaa-bb584a185)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/ArSLan_CheEmAa1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=googlechrome&logoColor=white)](https://arsalancheema.com)
+A comprehensive Human Resource Management platform designed to manage the complete employee lifecycle from recruitment to payroll and performance.
+
+### Key Features
+
+* Employee management
+* Attendance management
+* Shift management
+* Late arrival and overtime tracking
+* Leave management
+* Payroll processing
+* Allowances and deductions
+* Payslip generation
+* Recruitment and applicant tracking
+* Job openings management
+* Interview scheduling
+* Candidate evaluation
+* Employee onboarding
+* Employee lifecycle management
+* Performance reviews
+* Goals and KPI tracking
+* Training and development
+* Organization chart
+* Organization structure
+* Asset management
+* Meetings management
+* Documents and contracts
+* Media library
+* HR reports and analytics
+* System users and permissions
+* Subscription plans
+* Referral program
+* AI-powered HR chatbot
+* Centralized workforce dashboard
+
+🌐 **dothrm.com**
+
+---
+
+## 🩺 Healthcare Appointment & Management System
+
+A healthcare platform designed to manage patients, doctors, appointments, schedules, and medical workflows.
+
+### Key Features
+
+* Patient registration and management
+* Doctor management
+* Online appointment booking
+* Doctor availability management
+* Appointment scheduling
+* Time-slot management
+* Appointment rescheduling
+* Appointment cancellation
+* Clinic appointment management
+* Patient appointment history
+* Appointment status tracking
+* Automated notifications and reminders
+* Doctor dashboard
+* Patient dashboard
+* Administrative dashboard
+* Secure authentication
+* Role-based access control
+* Responsive web interface
+* Healthcare workflow management
+
+🌐 **mhs-usa.net**
+
+---
+
+## 🍔 3 Guys Burgers & Gyros | Complete Restaurant Management System
+
+A complete restaurant technology ecosystem developed for a restaurant operating in the **USA**, covering ordering, POS, kitchen operations, delivery, finance, and management.
+
+### Key Features
+
+* Website ordering system
+* QR table ordering
+* Restaurant POS system
+* Dine-in order management
+* Pickup and takeaway orders
+* Delivery order management
+* Kitchen Display System
+* Restaurant order display screens
+* Digital menu management
+* Categories and products management
+* Product variations and add-ons
+* Customer management
+* Online payment integration
+* Discounts and promotions
+* Coupons
+* Loyalty features
+* Order status management
+* Real-time restaurant operations
+* Staff management
+* Financial management
+* Sales reports
+* Order reports
+* Business analytics
+* Centralized admin dashboard
+* Android and iOS applications
+
+🌐 **3guysburgersandgyros.com**
+
+---
+
+## 🧴 Lens | AI-Powered Cosmetic Product Safety Platform
+
+An AI-powered platform designed to help users analyze cosmetic products, ingredients, testing information, and potential safety concerns.
+
+### Key Features
+
+* AI-powered cosmetic ingredient analysis
+* Product search by name and brand
+* Image-based product search
+* Product and label image scanning
+* Automatic ingredient identification
+* Ingredient-by-ingredient safety analysis
+* Product safety scoring
+* Hazard and concern identification
+* Detailed product safety profiles
+* Independent laboratory test results
+* Product verification
+* Lens Verified status
+* Product comparison
+* Safer product discovery
+* Advanced product filtering
+* Ingredient risk information
+* Ingredient purpose information
+* Product reviews and ratings
+* Educational content
+* Admin-managed products and ingredients
+* Category management
+* Laboratory test management
+
+🌐 **lens.scriptro.com**
+
+---
+
+## ✈️ Discovery Holidays Travel | Travel Booking Platform
+
+A complete tourism and travel management system covering multiple travel services and booking workflows.
+
+### Key Features
+
+* Umrah packages
+* Tour packages
+* Hotel reservations
+* Flight bookings
+* Visa services
+* Real-time hotel availability
+* Booking management
+* Customer management
+* Travel agent management
+* Package management
+* Online payments
+* Booking confirmations
+* Travel dashboard
+* Centralized administration
+
+🌐 **discoveryholidaystravel.com**
+
+---
+
+## 📄 Resume Amplifiers | Career Services Platform
+
+A complete career services platform helping professionals order and manage resume and career-related services.
+
+### Key Features
+
+* Resume writing services
+* Cover letter services
+* LinkedIn optimization
+* Executive biographies
+* Career service packages
+* Customer accounts
+* Online payments
+* Order management
+* Order status tracking
+* Customer dashboard
+* Messaging
+* Administrative management
+
+🌐 **resumeamplifiers.com**
+
+---
+
+## 🛡️ Business Insurance Platform
+
+An AI-enabled insurance platform built for businesses in the United States.
+
+### Key Features
+
+* Business insurance workflows
+* AI-powered insurance assistant
+* Insurance service management
+* Customer management
+* Insurance agent management
+* Lead management
+* Agent workflows
+* Administrative dashboard
+* Third-party API integrations
+
+🌐 **bizins.ai**
+
+---
+
+## 🍱 D2Home | Multi-Vendor Food Delivery Platform
+
+An Australian multi-vendor food ordering and delivery ecosystem connecting restaurants, customers, vendors, and administrators.
+
+### Key Features
+
+* Multi-vendor marketplace
+* Restaurant management
+* Vendor management
+* Online food ordering
+* Customer accounts
+* Cart and checkout
+* Delivery workflows
+* Online payments
+* Vendor dashboards
+* Order tracking
+* Product management
+* Centralized administration
+
+🌐 **d2home.com.au**
+
+---
+
+## 🚌 BigWay | School Transportation Management Platform
+
+A complete school transportation and logistics management system designed to improve operational efficiency and student transportation management.
+
+### Key Features
+
+* Student management
+* School management
+* Bus management
+* Driver management
+* Transportation routes
+* Bus stops
+* Route optimization
+* GPS-based vehicle tracking
+* Transportation scheduling
+* Student safety workflows
+* Operational dashboards
+* Transportation reporting
+* Administrative management
+
+---
+
+## 🏢 A2Z DS | HR & CRM Management Platform
+
+A business management solution combining HR and CRM functionality.
+
+### Key Features
+
+* Employee management
+* Customer management
+* HR workflows
+* CRM workflows
+* Administrative dashboards
+* Business reporting
+* User management
+* Role-based permissions
+
+🌐 **a2zds.com.au**
+
+---
+
+# 🧑‍💻 Professional Experience
+
+## Full Stack Developer — Bitlogicx
+
+**January 2022 — Present**
+
+Working on complex software systems and production applications for international businesses.
+
+My responsibilities include:
+
+* Requirement analysis
+* Software architecture
+* Database design
+* Backend development
+* Frontend development
+* REST API development
+* Third-party integrations
+* AI integrations
+* Payment gateway integrations
+* Performance optimization
+* Server configuration
+* Application deployment
+* Production maintenance
+* Troubleshooting and technical support
+
+---
+
+## Freelance Software Developer
+
+Working with businesses and international clients on custom software development, SaaS platforms, web applications, and business management systems.
+
+I handle projects from initial requirements through development, deployment, and ongoing maintenance.
+
+---
+
+# ⚙️ Development Approach
+
+I work across the complete software development lifecycle:
+
+**Requirements → Planning → Architecture → Database → Backend → Frontend → APIs → Integrations → Testing → Deployment → Maintenance**
+
+I focus on building software that is:
+
+* Scalable
+* Secure
+* Maintainable
+* Performance-focused
+* User-friendly
+* Production-ready
+* Designed around real business requirements
+
+---
+
+# 🌍 International Experience
+
+I have worked on software products and projects for businesses across:
+
+**🇺🇸 USA • 🇦🇺 Australia • 🇦🇪 UAE • 🇸🇦 Saudi Arabia • 🇪🇺 Europe • 🇵🇰 Pakistan**
+
+---
+
+# 🎓 Education
+
+### Bachelor of Science in Software Engineering
+
+**Superior University, Lahore**
+
+2018 — 2022
+
+---
+
+# 📫 Connect With Me
+
+🌐 **Portfolio:** [arsalancheema.com](https://arsalancheema.com)
+
+💼 **LinkedIn:** [linkedin.com/in/arsalancheema](https://linkedin.com/in/arsalancheema)
+
+📧 **Email:** [cheemaaarslan@gmail.com](mailto:cheemaaarslan@gmail.com)
+
+---
+
+### Core Technologies
+
+`Laravel` • `React` • `Next.js` • `Vue.js` • `PHP` • `MySQL` • `REST APIs` • `SaaS` • `AI Integration` • `Business Applications`
