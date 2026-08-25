@@ -84,6 +84,8 @@ A complete healthcare ecosystem connecting **patients, doctors, clinics, and adm
 * Patient mobile application
 * Android and iOS support
 
+🌐 **careslotdev.scriptro.com**
+
 ---
 
 ## 👥 DotHRM | Complete HR Management Platform
