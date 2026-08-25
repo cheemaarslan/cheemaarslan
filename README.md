@@ -1,4 +1,4 @@
-# I'm Arslan Cheema
+# Arslan Cheema
 
 ### Software Engineer | Building Scalable Digital Products
 
