@@ -1,5 +1,3 @@
-# Arslan Cheema
-
 ### Software Engineer | Building Scalable Digital Products
 
 I’m a **Software Engineer with 5+ years of experience**, focused on building secure, scalable, and production-ready applications for real businesses.
